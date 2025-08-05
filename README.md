@@ -1,2 +1,6 @@
 # SY25-26
-python class
+
+python class//10th grade
+
+august 5th
+
