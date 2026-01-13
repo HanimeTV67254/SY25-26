@@ -41,7 +41,13 @@ while True:
         lineup.append(remove)
         print(" ")
 
-    if number == 3:
+    if number == 4:
+        print(" ")
+        band_r = str(input('Band to remove:'))
+        lineup.remove(band_r)
+        print(" ")
+
+    if number == 5:
         print(" ")
         band_r = str(input('Band to remove:'))
         lineup.remove(band_r)
